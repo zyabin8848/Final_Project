@@ -1,0 +1,42 @@
+[
+    {
+      "custName": "Test1",
+      "mobileNumber": "09868769797",
+      "country": "USA",
+      "list": [
+        {
+          "name": "chips",
+          "quantity": 2
+        },
+        {
+          "name": "thumsup",
+          "quantity": 3
+        },
+        {
+          "name": "icecreame",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "custName": "Test2",
+      "mobileNumber": "09864534565",
+      "country": "USA",
+      "list": [
+        {
+          "name": "vegetables",
+          "quantity": 6
+        },
+        {
+          "name": "grocery",
+          "quantity": 2
+        },
+        {
+          "name": "icecreame",
+          "quantity": 15
+        }
+      ]
+    }
+  ]
+
+

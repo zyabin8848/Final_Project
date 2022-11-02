@@ -1,0 +1,57 @@
+[
+  {
+    "custName": "Test1",
+    "mobileNumber": "09868769797",
+    "country": "USA",
+    "list": [
+      {
+        "name": "chips",
+        "quantity": 2
+      },
+      {
+        "name": "thumsup",
+        "quantity": 3
+      },
+      {
+        "name": "icecreame",
+        "quantity": 10
+      }
+    ],
+    "address": {
+      "city": "Florida",
+      "pincode": "32802",
+      "location": "West"
+    },
+    "institute": "Softed"
+  } ,
+
+  {
+    "custName": "Test2",
+    "mobileNumber": "89868769797",
+    "country": "NEPAL",
+    "list": [
+      {
+        "name": "noodle",
+        "quantity": 5
+      },
+      {
+        "name": "ramen",
+        "quantity": 20
+      },
+      {
+        "name": "cream",
+        "quantity": 89
+      }
+    ],
+    "address": {
+      "city": "Dallas",
+      "pincode": "76040",
+      "location": "East"
+    },
+    "institute": "Zorba"
+  }
+]
+
+
+
+
